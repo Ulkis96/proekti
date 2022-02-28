@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictinaryMarket", "DictinaryMarket\DictinaryMarket.csproj", "{A355E975-2102-4064-8FBD-3E702EA815EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A355E975-2102-4064-8FBD-3E702EA815EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A355E975-2102-4064-8FBD-3E702EA815EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A355E975-2102-4064-8FBD-3E702EA815EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A355E975-2102-4064-8FBD-3E702EA815EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ABD964B-8359-46A0-801B-4EA39BA69EB5}
+	EndGlobalSection
+EndGlobal
